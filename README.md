@@ -7,8 +7,6 @@ The file jsDelta.cl MUST be in the same folder alongside the compiled plugin for
 
 Loading plugin adds command "jsDeltaCmd()" to maya.cmds. Select target mesh and run command from the script editor. You can also create a bare node with deformer(type="jsDelta").
 
-Version for 2016.5 coming soon.
-
 2017 Changes:
 - getOpenCLCommandQueue has been replaced with getMayaDefaultOpenCLCommandQueue
 - MGPUDeformerRegistrationInfo class now requires two separate validation functions instead of validateNode()
