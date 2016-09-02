@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="jsDelta.cl" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />
